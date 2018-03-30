@@ -1,6 +1,6 @@
 title: Malaria Resistance Surveillance (MaRS)
 # Copyright name =
-name: Placeholder
+name: Eldin Talundzic 
 # ----------------
 email: etalundzic@cdc.gov
 description: The Malaria Resistance Surveillance (MaRS) project aims to standardize the collection and mapping of genetic polymorphisms associated with drug resistance in malaria around the world.
@@ -11,10 +11,10 @@ parallax_image_two: assets/images/quiet_sun.jpg
 project_one: MaRS Laboratory Protocol
 project_one_description: Track any changes and/or updates to the laboratory protocol for sequencing the full length genes (k13, mdr1, crt, dhps, dhfr) and mitochondrial genome on the MiSeq System. Click on the github link for the detailed step by step protocol.
 project_one_url: https://github.com/CDCgov/MaRS/blob/master/lab_sop/MaRSsop.md
-project_one_icon: assets/images/tads.jpg
+project_one_icon:
 
 project_two: MaRS Bioinformatics Pipeline
-project_two_description: Track any changes and/or updates to the MaRS analysis pipeline, which can be ran on any standard laptop. Click on the github link for more information!
+project_two_description: Track any changes and/or updates to the MaRS analysis pipeline. The MaRS analysis pipeline can be installed on any standard laptop. For directions on how to set up the analysis framework click on the github!
 project_two_url: https://github.com/CDCgov/MaRS
 project_two_icon: photo_camera
 
@@ -26,7 +26,7 @@ project_three_icon: hotel
 
 project_four: nil
 project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+# project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
 
 portfolio_heading: Standard Operating Procedures (SOPs)
