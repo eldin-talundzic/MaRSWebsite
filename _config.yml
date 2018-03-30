@@ -8,8 +8,8 @@ description: The Malaria Resistance Surveillance (MaRS) project aims to standard
 parallax_image_one: assets/images/quiet_sun.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/quiet_sun.jpg
 
-project_one: MaRS Lab Protocol
-project_one_description: Track any changes and/or updates to the laboratory protocol for sequencing the full length genes (k13, mdr1, crt, dhps, dhfr) and mitochondrial genome on the MiSeq System. Click on the github link for more information!
+project_one: MaRS Laboratory Protocol
+project_one_description: Track any changes and/or updates to the laboratory protocol for sequencing the full length genes (k13, mdr1, crt, dhps, dhfr) and mitochondrial genome on the MiSeq System. Click on the github link for the detailed step by step protocol.
 project_one_url: https://github.com/CDCgov/MaRS/blob/master/lab_sop/MaRSsop.md
 project_one_icon: assets/images/tads.jpg
 
