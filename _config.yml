@@ -1,6 +1,6 @@
 title: Malaria Resistance Surveillance (MaRS)
 # Copyright name =
-name: Eldin Talundzic 
+name: Eldin Talundzic
 # ----------------
 email: etalundzic@cdc.gov
 description: The Malaria Resistance Surveillance (MaRS) project aims to standardize the collection and mapping of genetic polymorphisms associated with drug resistance in malaria around the world.
@@ -9,12 +9,12 @@ parallax_image_one: assets/images/quiet_sun.jpg # These are the images used for 
 parallax_image_two: assets/images/quiet_sun.jpg
 
 project_one: MaRS Laboratory Protocol
-project_one_description: Track any changes and/or updates to the laboratory protocol for sequencing the full length genes (k13, mdr1, crt, dhps, dhfr) and mitochondrial genome on the MiSeq System. Click on the github link for the detailed step by step protocol.
+project_one_description: Track any changes and/or updates to the targeted amplicon deep sequencing protocol for the full length drug resistance associated genes (k13, mdr1, crt, dhps, dhfr) and mitochondrial genome on the MiSeq System. Click on the github link for the detailed step by step protocol.
 project_one_url: https://github.com/CDCgov/MaRS/blob/master/lab_sop/MaRSsop.md
 project_one_icon:
 
 project_two: MaRS Bioinformatics Pipeline
-project_two_description: Track any changes and/or updates to the MaRS analysis pipeline. The MaRS analysis pipeline can be installed on any standard laptop. For directions on how to set up the analysis framework click on the github!
+project_two_description: Track any changes and/or updates to the bioinormatics analysis pipeline. The analysis pipeline can be installed on any standard laptop. For detailed directions on how to set up the the MaRS analysis pipeline click on the github link!
 project_two_url: https://github.com/CDCgov/MaRS
 project_two_icon: photo_camera
 
@@ -35,9 +35,9 @@ portfolio_type: cards
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - name: images/WWARN_logo.jpg
-  - name: images/WWARN_logo2.jpg
-  - name: images/WWARN_logo3.jpg
+  - name:
+  - name:
+  - name:
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
