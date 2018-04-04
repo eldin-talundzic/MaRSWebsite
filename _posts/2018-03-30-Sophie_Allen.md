@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "First LastName"
+title: Sophie Allen  
 date: 2018-03-30 12:18:05 +0000
-image: assets/images/twoscreen.jpg
+image: assets/images/Sophie_A.jpg
 excerpt_separator: <!--more-->
 
 ---

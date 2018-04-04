@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "First LastName"
+title: Julia Kelley  
 date: 2018-03-30 12:18:05 +0000
-image: assets/images/twoscreen.jpg
+image: assets/images/Julia_K.jpg
 excerpt_separator: <!--more-->
 
 ---
