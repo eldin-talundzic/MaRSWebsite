@@ -1,4 +1,4 @@
-# MaRS (Malaria Drug Resistance Surveillence) Team Website 
+### MaRS (Malaria Resistance Surveillence) Team Website 
 
 A Jekyll Theme based on [Material Design](https://material.io/) using [Materialize](http://materializecss.com/).
 
