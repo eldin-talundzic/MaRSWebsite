@@ -16,3 +16,5 @@ After this line ends, you can start your own markdown page. Be creative! This is
 > Shashidhar Ravishankar, MSc
 
 <!--more-->  
+
+Shashi is a graduate student pursuing a PhD in bioinformatics at Georgia Institute of Technology. His research interests include developing bioinformatics tools and algorithms for NGS data analysis, focusing on transcriptome and targeted amplicon sequence data, and their application towards understanding the dynamics of infectious diseases. He has received a Master of Science degree in bioinformatics from Georgia Institute of Technology and a Bachelor of Engineering degree in Biotechnology from PESIT, India. In his spare time, Shashi likes to travel, hike and play any board games. 
